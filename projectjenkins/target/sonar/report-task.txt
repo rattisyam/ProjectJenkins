@@ -1,0 +1,5 @@
+projectKey=com.projectjenkins:projectjenkins
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.projectjenkins:projectjenkins
+ceTaskId=AV5-YZTmH01gKMtN_I9l
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV5-YZTmH01gKMtN_I9l
