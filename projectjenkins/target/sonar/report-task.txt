@@ -1,5 +1,5 @@
 projectKey=com.projectjenkins:projectjenkins
 serverUrl=http://localhost:9000
 dashboardUrl=http://localhost:9000/dashboard/index/com.projectjenkins:projectjenkins
-ceTaskId=AV6QBcAeH01gKMtN_I9n
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AV6QBcAeH01gKMtN_I9n
+ceTaskId=AV6QDGJ6H01gKMtN_I9o
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV6QDGJ6H01gKMtN_I9o
